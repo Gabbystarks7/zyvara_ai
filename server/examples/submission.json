@@ -1,0 +1,15 @@
+{
+  "challengeId": "landfill-cleanup-demo",
+  "challengeTitle": "Clean Up a Heavily Littered Public Area",
+  "challengeDescription": "Remove accumulated plastic waste, trash, and other debris from a heavily polluted public area. Provide before-and-after photographs showing the same location with a visible reduction in litter and improved cleanliness.",
+  "challengeCategory": "Cleanup",
+  "submissionDescription": "Our cleanup team removed large amounts of plastic waste, bags, bottles, and other scattered garbage from a heavily littered open area near a bridge. The before photo shows extensive waste covering the ground, while the after photo shows the area largely cleared, with cleanup volunteers present.",
+  "beforeImage": {
+    "mimeType": "image/png",
+    "path": "examples/before_2.png"
+  },
+  "afterImage": {
+    "mimeType": "image/png",
+    "path": "examples/after_2.png"
+  }
+}

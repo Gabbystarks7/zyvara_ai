@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
+.npm-cache/
+*.tgz
+*.log
+# Keep local evaluation images and generated results out of the public repo.
+server/examples/*.png
+server/examples/*.jpg
+server/examples/*.jpeg
+server/examples/*.webp
+server/examples/assessment-result.json
+server/examples/*-result.json

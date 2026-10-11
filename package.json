@@ -1,0 +1,1 @@
+{"name":"zyvara-ai","private":true,"workspaces":["server"],"scripts":{"build":"npm run build -w server","test":"npm test -w server","smoke":"npm run smoke -w server"}}
